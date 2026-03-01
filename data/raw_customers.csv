@@ -1,0 +1,9 @@
+customer_id,full_name,email,birth_date,city,state,signup_date,signup_channel
+1,Ana Souza,ana.souza@example.com,1992-03-10,Recife,PE,2023-01-15,APP
+2,Bruno Lima,bruno.lima@example.com,1988-07-22,São Paulo,SP,2023-02-03,LOJA
+3,Carla Mendes,carla.mendes@example.com,1995-11-05,Curitiba,PR,2023-02-10,WEB
+4,Diego Santos,diego.santos@example.com,1990-01-30,Fortaleza,CE,2023-03-01,APP
+5,Erica Nunes,erica.nunes@example.com,1987-09-18,Belo Horizonte,MG,2023-03-20,LOJA
+6,Felipe Costa,felipe.costa@example.com,1993-06-12,Salvador,BA,2023-04-02,WEB
+7,Gabriela Silva,gabriela.silva@example.com,1996-12-01,Recife,PE,2023-04-15,APP
+8,Hugo Ferreira,hugo.ferreira@example.com,1985-05-27,Rio de Janeiro,RJ,2023-05-05,LOJA

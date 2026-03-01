@@ -1,0 +1,11 @@
+ssurvey_id,customer_id,order_id,survey_date,channel,nps_score,nps_label,comment
+5001,1,1001,2023-03-03,APP,10,PROMOTER,Experiência excelente entrega rápida e produto ótimo.
+5002,1,1002,2023-03-27,APP,9,PROMOTER,Gosto muito do app tudo funciona bem.
+5003,2,1003,2023-03-07,LOJA,7,NEUTRAL,Atendimento ok nada de especial.
+5004,3,1004,2023-03-20,WEB,4,DETRACTOR,Pedido cancelado e não recebi suporte adequado.
+5005,3,1005,2023-04-05,WEB,8,NEUTRAL,Depois melhorou mas ainda poderia ser mais rápido.
+5006,4,1006,2023-04-12,APP,9,PROMOTER,Entrega dentro do prazo e produto de qualidade.
+5007,5,1007,2023-04-25,LOJA,6,DETRACTOR,Fila grande na loja e confusão no caixa.
+5008,6,1008,2023-05-05,WEB,10,PROMOTER,Experiência perfeita na compra online.
+5009,7,1009,2023-05-17,APP,3,DETRACTOR,Produto chegou com embalagem danificada.
+5010,8,1010,2023-05-30,LOJA,9,PROMOTER,Atendimento muito bom e produtos disponíveis.
